@@ -1,0 +1,6 @@
+__pycache__
+music_app.db.bak
+music_app.db.dat
+music_app.db.dir
+venv
+.idea
